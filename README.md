@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portafoliosrc.netlify.app/](https://portafoliosrc.netlify.app/)
 
-- 💬 Ask me about **react, javascript, Typescript**
+- 💬 Ask me about **react, javascript, Node.js**
 
 - 📫 How to reach me **santicortesrincon15@gmail.com**
 
