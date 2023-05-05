@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago Rincon</h1>
-<h3 align="center">Passionate full stack developer</h3>
+<h3 align="center">Passionate Frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santicortes2250&label=Profile%20views&color=0e75b6&style=flat" alt="santicortes2250" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portafoliosrc.netlify.app/](https://portafoliosrc.netlify.app/)
 
-- 💬 Ask me about **react, javascript, Node.js**
+- 💬 Ask me about **react, javascript, Node.js...**
 
 - 📫 How to reach me **santicortesrincon15@gmail.com**
 
