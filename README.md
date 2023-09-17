@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santicortes2250&label=Profile%20views&color=0e75b6&style=flat" alt="santicortes2250" /> </p>
 
-- 🔭 I’m currently working on **DevoCamp**
+- 🔭 I’m currently working on **Eos Technology**
 
 - 👨‍💻 All of my projects are available at [https://portafoliosrc.netlify.app/](https://portafoliosrc.netlify.app/)
 
